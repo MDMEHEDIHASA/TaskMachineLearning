@@ -1,1 +1,1 @@
-To see the task code you have to open 1st Phase of recruitment of Machine Learning Intern.ipynb file.
+To see the task code you have to open 1st Phase.ipynb file.
